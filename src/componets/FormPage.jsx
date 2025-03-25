@@ -17,7 +17,7 @@ const FormPage = () => {
 />
    <div className="container  py-5"  style={{background:"rgb(243, 241, 238)", marginTop:"4rem"}}>
         <div className="containar-fluid"  style={{background:"rgb(243, 241, 238)"}}>
-        <h2 className="text-center mb-4" style={{color:"#3B5552"}}> Venue Enquiry </h2>
+        <h2 className="text-center mb-4" style={{color:"#3B5552"}}>  Enquiry </h2>
       <form className="mx-auto" style={{ maxWidth: "600px" }}>
         <div className="mb-3">
           <label className="form-label">Full Name*</label>

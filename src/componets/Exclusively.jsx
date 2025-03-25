@@ -38,7 +38,7 @@ export default function Exclusively() {
 
 
 
-   <div className="explore-main " style={{ backgroundImage: "url('/images/blur.jpg')",backgroundSize: "cover" }}>
+   <div className="explore-main " style={{ backgroundImage: "url('/images/exl2.jpg')",backgroundSize: "cover" }}>
    <div className="container ex-co ">
     <div className="container-fluid">
        <div className="row">
@@ -50,7 +50,7 @@ export default function Exclusively() {
                {/* <span>FOR YOU</span> */}
             </div>
             <div className="explore-right">
-                <p>Refinement and creativity intertwine with dreamlike destinations and soulful moments on each sojourn with Taj.</p>
+                <p>Refinement and creativity intertwine with dreamlike destinations and soulful moments on each sojourn with The Grand Shoba.</p>
             </div>
             </div>
 
